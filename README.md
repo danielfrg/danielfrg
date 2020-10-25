@@ -16,6 +16,12 @@ I am an engineer working in data science and machine learning.
   
   <img align="left" alt="danielfrg's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrg&layout=compact />
 </details>
+  
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://extrapolations.dev
 [twitter]: https://twitter.com/danielfrg
