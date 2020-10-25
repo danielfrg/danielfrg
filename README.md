@@ -9,8 +9,10 @@ I am an engineer working in data science and machine learning.
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrg&layout=compact)](https://github.com/danielfrg/)
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="danielfrg's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrg&layout=compact />
+</details>
 
 [website]: https://extrapolations.dev
 [twitter]: https://twitter.com/danielfrg
