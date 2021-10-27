@@ -1,4 +1,4 @@
-Software engineer building Data Engineering and Data Science tooling. Here you can find my Open Source projects and contributions.
+Software engineer building Data Engineering and Data Science tools. Here you can find my Open Source projects and contributions.
 
 Most of my work here has been dedicated to the PyData ecosystem. Including development on new libraries and integrations of existing tools to make data science workflows easier and better. It also includes development on ML applications, learning new languages and tools, and more.
 
